@@ -1,4 +1,4 @@
-library phosphor_flutter;
+library;
 
 import 'package:flutter/widgets.dart';
 
